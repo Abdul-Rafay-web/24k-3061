@@ -1,0 +1,13 @@
+PF LAB ASSIGNMENT #2
+PSUEDO CODE
+•	Q: Find the maximum number in any of three variables.
+Start
+Input X
+Input Y 
+Input Z
+If X>Y and X>Z
+Then print X is the greatest Number
+Else if Y>X and Y>Z
+Then print Y is the greatest Number
+Else print Z is the greatest Number
+End
