@@ -1,0 +1,20 @@
+                                                                           ALGORITHM QUESTION 3
+
+Q:•	Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
+
+Ask the user to enter N1
+Ask the user to enter N2
+Ask the user to enter an operator(+,-,*,/)
+if operator is '+' then
+result=N1+N2
+else if operator is '-' then
+result=N1-N2
+else if operator is '*' then
+result=N1*N2
+else if operator is '/' then
+result=N1/N2
+else if operator is '%' then
+result=N1%N2
+else print 'Operator is wrong'
+Display result on the screen
+

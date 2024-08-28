@@ -1,0 +1,18 @@
+                                                                      ALGORITHM QUESTION 1
+Q:•	Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6). 
+If so, determine if it’s an even number or odd number as well.
+
+
+
+Ask User to enter 'n'
+Ask User to enter 'Nth'
+Divide n by Nth
+if remainder=0
+print 'Nth is a divisor of n'
+also if Nth is divisible by 2
+print 'Nth is an even number'
+else print 'Nth is an odd number'
+else print 'Nth is not a divisor of n'
+
+
+
