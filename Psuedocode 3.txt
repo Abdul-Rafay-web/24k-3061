@@ -1,0 +1,16 @@
+                                                                               PSEUDOCODE QUESTION 3
+
+
+Q:Create a small calculator which only does ‘+’ or ‘-‘Operations. 
+
+Start
+Input A
+Input B
+Input Operator
+if operator is '+' then 
+print cal=A+B
+else if operator is '-' then
+print cal=A-B
+else print 'operator is wrong' 
+print cal
+end

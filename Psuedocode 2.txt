@@ -1,0 +1,14 @@
+                                                                        PSEUDOCODE QUESTION 2
+
+Q:•	Take three variables as input and add them without using the + operator 
+
+
+Start
+Input X
+Input Y
+Input Z 
+Set sum=X
+Increment sum by 1 'Y' times
+Increment sum by 1 'Z' times
+print sum
+end
