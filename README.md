@@ -8,4 +8,5 @@
   *Researching on particular topic*\
   *Exploring new things*
 
-![Balcony](https://github.com/user-attachments/assets/8902b6d0-d525-45e4-8537-0c101953ca32)
+
+![Fast University](https://github.com/user-attachments/assets/e87b68bd-4fe4-4ff1-a6af-e5aaaed25ee5)
